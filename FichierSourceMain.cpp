@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Projet de programmation
-//
-//  Created by Elio Skiadas Deltell on 27.03.2018
-//  Copyright © 2018 Elio Skiadas Deltell. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 #include <vector>
